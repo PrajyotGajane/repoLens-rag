@@ -11,7 +11,7 @@
 - Stream responses token-by-token via FastAPI (StreamingResponse)
 - React + TypeScript UI with chat interface, live streaming, repo ingestion flow, and source attribution panel
 
-## Next (High-Impact Improvements)
+## Next features
 - Replace [SOURCES] parsing with proper SSE-based structured streaming
 - Integrate LangGraph with streaming for multi-step reasoning
 - Improve retrieval using hybrid search (BM25 + vector) or ML reranker
