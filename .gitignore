@@ -1,5 +1,6 @@
 ai-codebase-assistant/venv
 ai-codebase-assistant/__pycache__
+ai-codebase-assistant/data/repos/
 ai_frontend/node_modules
 ai_frontend/dist
 ai_frontend/.next
