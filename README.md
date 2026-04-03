@@ -1,3 +1,4 @@
+# repoLens-rag
 ## Implemented (Core Features)
 - Clone and ingest GitHub repositories with file filtering and size constraints
 - Parse code into structured documents (file, content, language)
